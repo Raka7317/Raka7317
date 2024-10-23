@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@raka7317" target="blank"><img src="https://img.shields.io/twitter/follow/@raka7317?logo=twitter&style=for-the-badge" alt="@raka7317" /></a> </p>
 
-- 🔭 I’m currently working on [varcel clone](https://studynotion-frontend.vercel.app/)
+- 🔭 I’m currently working on [Zapier](https://studynotion-frontend.vercel.app/)
 
 - 🌱 I’m currently learning **Full Stack , devops**
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **rakakumar7317@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Raka7317/Resume/blob/main/Rakesh_Resume.pdf](https://github.com/Raka7317/Resume/blob/main/Rakesh_Resume.pdf)
+- 📄 Know about my experiences [https://github.com/Raka7317?tab=repositories](https://github.com/Raka7317?tab=repositories)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
