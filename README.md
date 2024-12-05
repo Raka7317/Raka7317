@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [Devops team](https://github.com/Raka7317/Paytm_clone)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Raka7317?tab=repositories](https://github.com/Raka7317?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Raka7317?tab=repositories](https://www.rakeshdev.xyz/)
 
 - 💬 Ask me about **Full stack**
 
