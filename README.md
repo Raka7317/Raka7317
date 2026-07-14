@@ -1,176 +1,203 @@
 <div align="center">
 
-# Hi, I'm Rakesh Kumar 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:0A66C2&height=200&section=header&text=Rakesh%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20ML%20Systems%20%7C%20GenAI&descAlignY=55&descSize=20" width="100%"/>
 
-### AI Engineer · Building ML systems that don't fall apart in production
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+ML+systems+that+don't+fall+apart+in+production;Model+Dev+%E2%86%92+Deploy+%E2%86%92+Monitor+%E2%86%92+Retrain;Researching+Prompt+Injection+Detection+for+LLM+Security;M.Tech+CSE+(AI+%26+ML)+%40+VIT+Vellore" alt="Typing SVG" /></a>
 
-M.Tech CSE (AI & ML), VIT Vellore &nbsp;|&nbsp; Model Development → Deployment → Monitoring → Retraining
+<br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-follow-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakeshofficial7317@gmail.com)
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:rakeshofficial7317@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="tel:+917355066278"><img src="https://img.shields.io/badge/Call%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-<sub>💡 Replace the `#` links above with your actual Portfolio / LinkedIn / GitHub URLs</sub>
+<sub>💡 Swap the `#` links for your real Portfolio / LinkedIn / GitHub URLs, and replace `YOUR_USERNAME` throughout with your GitHub handle so the widgets below render correctly</sub>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-I build AI systems end-to-end — not just models that score well in a notebook, but pipelines that hold up once real traffic hits them.
+```yaml
+role: AI Engineer
+current: M.Tech CSE (AI & ML) @ VIT Vellore  (GPA: 8.38/10)
+background: B.Tech CS/IT @ KIET Group of Institutions
+focus:
+  - End-to-end ML systems: features → training → deployment → drift monitoring → retraining
+  - Applied GenAI: RAG, agentic pipelines, LLM security
+  - Currently researching: prompt injection detection (hybrid BiLSTM + cross-attention)
+location: India 🇮🇳
+looking_for: AI Engineer roles — model development, MLOps, applied GenAI
+fun_fact: "I built a phishing detector that notices when it's going stale — and retrains itself"
+```
 
-- 🏗️ I work across the **full ML system lifecycle**: feature engineering → model architecture → serving infrastructure → drift monitoring → automated retraining
-- 🧠 Comfortable across classical ML, deep learning (CNNs, RNNs/LSTMs/GRUs, Transformers), and GenAI (RAG, LLM fine-tuning, agentic pipelines)
-- ☁️ Ship on real infrastructure: **AWS (ECS, S3, ALB, CloudFront, Route53), Docker, Kubernetes, Kafka, ClickHouse**
-- 📊 Care about what happens *after* deployment — observability, concept drift, and retraining loops are part of my design, not an afterthought
-- 🔬 Currently researching **prompt injection detection for LLM security** (hybrid BiLSTM + cross-attention), targeting a publishable paper
-- 🎓 M.Tech CSE (AI & ML) @ VIT Vellore (GPA 8.38/10); B.Tech CS/IT @ KIET
-- 📍 India-based, open to **AI Engineer** roles — model development, MLOps, and applied GenAI
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
----
+## 🛡️ Responsible AI — Engineered In, Not Bolted On
 
-### 🛡️ Responsible AI — Baked Into How I Build
-
-A model that's 99% accurate in the lab and silently decaying in production isn't a safe model — it's a **ticking clock**. As an AI engineer, that's an engineering problem I design for, not a compliance checkbox I add later:
-
-- **Drift-aware by design** — my phishing detection system runs Page-Hinkley, ADWIN, and DDM concept-drift detectors in real time over live predictions, catching degradation in *dozens of samples*, not months of hindsight.
-- **Human-in-the-loop, not human-out-of-the-loop** — uncertain predictions get routed to an active learning loop where a human oracle labels only the samples the model is genuinely unsure about, keeping a person in the decision path where it matters most.
-- **Evaluated for the real world, not just the benchmark** — every model I ship gets tested for out-of-distribution generalization, because in-distribution accuracy is not a safety guarantee.
-- **Transparent by default** — meta-learner feature importances, attention weights, and branch-level scores are surfaced explicitly instead of hiding behind one opaque probability.
-- **Security-first LLM engineering** — my current research on prompt injection detection is about hardening LLM systems against adversarial manipulation *before* they reach production.
-- **Observability as a first-class requirement** — building fluency in LangSmith, prompt evaluation, and eval pipelines, because a GenAI system you can't monitor is a GenAI system you can't trust.
-
-I care about this because the gap between "works in the demo" and "safe in the world" is exactly where most AI failures happen in practice — closing that gap is the part of the job I find most interesting.
-
----
-
-### 🧰 Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**ML / DL**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-**GenAI / NLP**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-blue?style=flat-square)
-
-**MLOps / Infra**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
----
-
-### 🚀 Featured Projects
+> A model that's 99% accurate in the lab and silently decaying in production isn't a safe model — it's a **ticking clock**.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🔍 Enterprise Multimodal RAG System**
-<br><sub>Hybrid Retrieval & Hierarchical Memory</sub>
+### 📡 Drift-Aware by Design
+Page-Hinkley, ADWIN & DDM run in real time over live predictions in my phishing detection system — degradation gets caught in *dozens of samples*, not months of hindsight.
 
-Multimodal RAG over PDFs, images, audio, video, websites, YouTube, and source code. Hybrid retrieval (Dense + BM25), cross-encoder reranking, multimodal embeddings (BGE, ImageBind), hierarchical memory via LangGraph SQLite (short-term) + MongoDB (long-term). Deployed on AWS with FastAPI, ECS, ALB, CloudFront; evaluated with Ragas.
+### 🧑‍⚖️ Human-in-the-Loop
+Uncertain predictions route to an active learning loop where a human oracle labels only the samples the model is genuinely unsure about — a person stays in the decision path where it matters.
 
-`Python` `FastAPI` `React` `LangChain` `LangGraph` `AWS` `Docker`
-
-</td>
-<td width="50%" valign="top">
-
-**☁️ Distributed Cloud Deployment Platform**
-<br><sub>Kafka, ClickHouse, AWS ECS Fargate</sub>
-
-A Git-to-deployment platform with isolated Docker builds on ECS + S3 and a custom streaming reverse proxy. V2 added PostgreSQL/Prisma for deployment metadata and migrated logging to a Kafka + ClickHouse pipeline for persistent, real-time build log ingestion.
-
-`AWS ECS Fargate` `Kafka` `ClickHouse` `PostgreSQL` `Docker` `Next.js`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🛡️ GramBeddings — Hybrid Phishing URL Detection**
-<br><sub>DeepTCN, Meta-Stacking, Concept Drift Monitoring</sub>
-
-Three-branch ensemble (SGD+TF-IDF, DeepTCN+Attention — AUC 0.9932, Isolation Forest) fused via a Random Forest meta-learner across 555K+ URLs. Built an 80,008-dim sparse feature pipeline (TF-IDF char n-grams + lexical features) with CSR compression, cutting memory from 32GB → 200MB. Real-time drift monitoring (Page-Hinkley, ADWIN, DDM) over 160K predictions with an active learning loop for human-in-the-loop retraining.
-
-`PyTorch` `Scikit-learn` `TF-IDF` `Isolation Forest` `SciPy`
+### 🌍 Evaluated for the Real World
+Every model I ship is tested for out-of-distribution generalization — in-distribution accuracy alone is not a safety guarantee.
 
 </td>
 <td width="50%" valign="top">
 
-**🧪 Currently Researching**
-<br><sub>Prompt Injection Detection for LLM Security</sub>
+### 🔍 Transparent by Default
+Meta-learner feature importances, attention weights, and branch-level scores are surfaced explicitly — not hidden behind one opaque probability.
 
-Hybrid word-level + character-level BiLSTM with cross-attention fusion, normalization preprocessing, evaluated against novel attack types — synonym substitution, zero-width Unicode injection, homoglyph substitution, and combined attacks. Working toward a publishable paper.
+### 🔐 Security-First LLM Engineering
+My prompt-injection-detection research is about hardening LLM systems against adversarial manipulation *before* they reach production.
 
-`PyTorch` `NLP` `Adversarial ML` `LLM Security`
+### 📈 Observability as a Requirement
+Building fluency in LangSmith, prompt evaluation, and eval pipelines — a GenAI system you can't monitor is a GenAI system you can't trust.
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-### 💼 Experience
-
-**Full Stack Web Developer Intern** — Johnnette AI *(Jul 2023 – Oct 2023)*
-Built full-stack apps with React.js/Node.js/Express.js; RESTful auth APIs with JWT + role-based access control; reusable React component libraries that cut front-end dev time across product modules.
-
----
-
-### 📜 Certifications
-
-- Full Stack Web Development — 100xDevs
-- Data Science with Python — Udemy
-
-### 🤝 Positions of Responsibility
-
-- **Uddesya Club — Member**, community outreach (food drives, blood donation camps, education programs reaching 50–200 beneficiaries)
-- **DSA Coordinator** — ran DSA workshops and mentoring sessions for juniors, improving competitive programming ratings
-
----
-
-### 📫 Let's Connect
-
-I'm looking for **AI Engineer** opportunities — model development, MLOps, and applied GenAI systems. Feel free to reach out.
+## 🧰 Tech Stack
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-rakeshofficial7317%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rakeshofficial7317@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%207355066278-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+917355066278)
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="47"/>
+
+**ML / Deep Learning**
+<br>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
+
+**GenAI / NLP**
+<br>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="47"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="47"/>
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" height="47"/>
+<img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge&logo=meta&logoColor=white" height="47"/>
+
+**MLOps / Infra**
+<br>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,kafka,git,githubactions,grafana,prometheus&theme=dark" />
+
+**Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&theme=dark" />
+
+**Web (from my full-stack days)**
+<br>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs&theme=dark" />
 
 </div>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🚀 Featured Projects
+
+<details open>
+<summary><b>🔍 Enterprise Multimodal RAG System</b> — Hybrid Retrieval & Hierarchical Memory</summary>
+<br>
+
+Multimodal RAG over PDFs, images, audio, video, websites, YouTube, and source code. Hybrid retrieval (Dense + BM25), cross-encoder reranking, multimodal embeddings (BGE, ImageBind), hierarchical memory via LangGraph SQLite (short-term) + MongoDB (long-term). Deployed on AWS — FastAPI, ECS, ALB, CloudFront, Route53 — evaluated with Ragas.
+
+`Python` `FastAPI` `React` `LangChain` `LangGraph` `AWS` `Docker` `OpenSearch`
+
+</details>
+
+<details>
+<summary><b>☁️ Distributed Cloud Deployment Platform</b> — Kafka, ClickHouse, AWS ECS Fargate</summary>
+<br>
+
+**V1:** Git-to-deployment platform with isolated Docker builds on ECS + S3, served through a custom streaming reverse proxy — no memory overhead.
+**V2:** Added PostgreSQL/Prisma for deployment metadata and migrated logging from Redis to a Kafka + ClickHouse pipeline for persistent, real-time build log ingestion.
+
+`AWS ECS Fargate` `Kafka` `ClickHouse` `PostgreSQL` `Docker` `Next.js` `Redis`
+
+</details>
+
+<details>
+<summary><b>🛡️ GramBeddings — Hybrid Phishing URL Detection</b> — DeepTCN, Meta-Stacking, Concept Drift Monitoring</summary>
+<br>
+
+Three-branch ensemble — SGD+TF-IDF, DeepTCN+Attention (**AUC 0.9932**), Isolation Forest — fused via a Random Forest meta-learner across **555K+ URLs**. Built an 80,008-dim sparse feature pipeline (TF-IDF char n-grams + lexical features) with CSR compression, cutting memory from **32GB → 200MB**. Real-time drift monitoring (Page-Hinkley, ADWIN, DDM) over 160K predictions with an active learning loop for human-in-the-loop retraining.
+
+`PyTorch` `Scikit-learn` `TF-IDF` `Isolation Forest` `SciPy`
+
+</details>
+
+<details>
+<summary><b>🧪 Currently Researching:</b> Prompt Injection Detection for LLM Security</summary>
+<br>
+
+Hybrid word-level + character-level BiLSTM with cross-attention fusion, normalization preprocessing layer, evaluated against novel attack types — synonym substitution, zero-width Unicode injection, homoglyph substitution, and combined attacks. Working toward a publishable paper.
+
+`PyTorch` `NLP` `Adversarial ML` `LLM Security`
+
+</details>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 📊 GitHub Stats
+
 <div align="center">
-<sub>⭐️ Thanks for stopping by — check out my pinned repos below!</sub>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" width="95%"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 💼 Experience
+
+**Full Stack Web Developer Intern** · Johnnette AI · *Jul 2023 – Oct 2023*
+Built full-stack apps with React.js/Node.js/Express.js; RESTful auth APIs with JWT + role-based access control; reusable React component libraries that cut front-end dev time across product modules.
+
+## 📜 Certifications
+
+🏅 Full Stack Web Development — 100xDevs
+🏅 Data Science with Python — Udemy
+
+## 🤝 Positions of Responsibility
+
+- 🌱 **Uddesya Club — Member** — community outreach (food drives, blood donation camps, education programs), reaching 50–200 beneficiaries
+- 👨‍🏫 **DSA Coordinator** — ran DSA workshops & mentoring sessions for juniors, improving their competitive programming ratings
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<div align="center">
+
+### 📫 Let's Connect
+
+I'm looking for **AI Engineer** roles — model development, MLOps, and applied GenAI systems.
+
+<a href="mailto:rakeshofficial7317@gmail.com"><img src="https://img.shields.io/badge/rakeshofficial7317%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="tel:+917355066278"><img src="https://img.shields.io/badge/%2B91%207355066278-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+<br><br>
+
+⭐️ From [Rakesh Kumar](#) — thanks for stopping by!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:8A2BE2&height=100&section=footer" width="100%"/>
+
 </div>
