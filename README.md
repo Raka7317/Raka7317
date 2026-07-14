@@ -12,7 +12,7 @@
 <a href="mailto:rakeshofficial7317@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="tel:+917355066278"><img src="https://img.shields.io/badge/Call%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-<sub>💡 Swap the `#` links for your real Portfolio / LinkedIn / GitHub URLs, and replace `YOUR_USERNAME` throughout with your GitHub handle so the widgets below render correctly</sub>
+<!-- <sub>💡 Swap the `#` links for your real Portfolio / LinkedIn / GitHub URLs, and replace `YOUR_USERNAME` throughout with your GitHub handle so the widgets below render correctly</sub> -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS)
 
