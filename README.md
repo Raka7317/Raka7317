@@ -12,7 +12,7 @@
 <a href="mailto:rakeshofficial7317@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="tel:+917355066278"><img src="https://img.shields.io/badge/Call%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-<!-- <sub>💡 Swap the `#` links for your real Portfolio / LinkedIn / GitHub URLs, and replace `YOUR_USERNAME` throughout with your GitHub handle so the widgets below render correctly</sub> -->
+<!-- <sub>Swap the `#` links for your real Portfolio / LinkedIn / GitHub URLs, and replace `YOUR_USERNAME` throughout with your GitHub handle so the widgets below render correctly</sub> -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -20,7 +20,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🧑‍💻 About Me
+# About Me
 
 ```yaml
 role: AI Engineer
@@ -37,7 +37,7 @@ fun_fact: "I built a phishing detector that notices when it's going stale — an
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🛡️ Responsible AI — Engineered In, Not Bolted On
+##  Responsible AI — Engineered In, Not Bolted On
 
 > A model that's 99% accurate in the lab and silently decaying in production isn't a safe model — it's a **ticking clock**.
 
@@ -48,22 +48,22 @@ fun_fact: "I built a phishing detector that notices when it's going stale — an
 ### 📡 Drift-Aware by Design
 Page-Hinkley, ADWIN & DDM run in real time over live predictions in my phishing detection system — degradation gets caught in *dozens of samples*, not months of hindsight.
 
-### 🧑‍⚖️ Human-in-the-Loop
+### Human-in-the-Loop
 Uncertain predictions route to an active learning loop where a human oracle labels only the samples the model is genuinely unsure about — a person stays in the decision path where it matters.
 
-### 🌍 Evaluated for the Real World
+###  Evaluated for the Real World
 Every model I ship is tested for out-of-distribution generalization — in-distribution accuracy alone is not a safety guarantee.
 
 </td>
 <td width="50%" valign="top">
 
-### 🔍 Transparent by Default
+###  Transparent by Default
 Meta-learner feature importances, attention weights, and branch-level scores are surfaced explicitly — not hidden behind one opaque probability.
 
-### 🔐 Security-First LLM Engineering
+###  Security-First LLM Engineering
 My prompt-injection-detection research is about hardening LLM systems against adversarial manipulation *before* they reach production.
 
-### 📈 Observability as a Requirement
+###  Observability as a Requirement
 Building fluency in LangSmith, prompt evaluation, and eval pipelines — a GenAI system you can't monitor is a GenAI system you can't trust.
 
 </td>
@@ -72,7 +72,7 @@ Building fluency in LangSmith, prompt evaluation, and eval pipelines — a GenAI
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -108,7 +108,7 @@ Building fluency in LangSmith, prompt evaluation, and eval pipelines — a GenAI
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <details open>
 <summary><b>🔍 Enterprise Multimodal RAG System</b> — Hybrid Retrieval & Hierarchical Memory</summary>
@@ -132,7 +132,7 @@ Multimodal RAG over PDFs, images, audio, video, websites, YouTube, and source co
 </details>
 
 <details>
-<summary><b>🛡️ GramBeddings — Hybrid Phishing URL Detection</b> — DeepTCN, Meta-Stacking, Concept Drift Monitoring</summary>
+<summary><b> GramBeddings — Hybrid Phishing URL Detection</b> — DeepTCN, Meta-Stacking, Concept Drift Monitoring</summary>
 <br>
 
 Three-branch ensemble — SGD+TF-IDF, DeepTCN+Attention (**AUC 0.9932**), Isolation Forest — fused via a Random Forest meta-learner across **555K+ URLs**. Built an 80,008-dim sparse feature pipeline (TF-IDF char n-grams + lexical features) with CSR compression, cutting memory from **32GB → 200MB**. Real-time drift monitoring (Page-Hinkley, ADWIN, DDM) over 160K predictions with an active learning loop for human-in-the-loop retraining.
@@ -142,7 +142,7 @@ Three-branch ensemble — SGD+TF-IDF, DeepTCN+Attention (**AUC 0.9932**), Isolat
 </details>
 
 <details>
-<summary><b>🧪 Currently Researching:</b> Prompt Injection Detection for LLM Security</summary>
+<summary><b> Currently Researching:</b> Prompt Injection Detection for LLM Security</summary>
 <br>
 
 Hybrid word-level + character-level BiLSTM with cross-attention fusion, normalization preprocessing layer, evaluated against novel attack types — synonym substitution, zero-width Unicode injection, homoglyph substitution, and combined attacks. Working toward a publishable paper.
@@ -153,7 +153,7 @@ Hybrid word-level + character-level BiLSTM with cross-attention fusion, normaliz
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -168,12 +168,12 @@ Hybrid word-level + character-level BiLSTM with cross-attention fusion, normaliz
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 💼 Experience
+##  Experience
 
 **Full Stack Web Developer Intern** · Johnnette AI · *Jul 2023 – Oct 2023*
 Built full-stack apps with React.js/Node.js/Express.js; RESTful auth APIs with JWT + role-based access control; reusable React component libraries that cut front-end dev time across product modules.
 
-## 📜 Certifications
+##  Certifications
 
 🏅 Full Stack Web Development — 100xDevs
 🏅 Data Science with Python — Udemy
@@ -196,7 +196,7 @@ I'm looking for **AI Engineer** roles — model development, MLOps, and applied 
 
 <br><br>
 
-⭐️ From [Rakesh Kumar](#) — thanks for stopping by!
+ From [Rakesh Kumar](#) — thanks for stopping by!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:8A2BE2&height=100&section=footer" width="100%"/>
 
