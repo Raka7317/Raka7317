@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:0A66C2&height=200&section=header&text=Rakesh%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20FDE&descAlignY=55&descSize=20" width="100%"/>
 
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=AI+Engineer+%7C+Shipping+production+RAG+%26+agentic+systems;Customer+problem+%E2%86%92+Prototype+%E2%86%92+Deployed+in+production;LangGraph+%7C+AWS+ECS+%7C+Kafka+%7C+ClickHouse+%7C+FastAPI;M.Tech+CSE+(AI+%26+ML)+%40+VIT+Vellore+%7C+LLM+Security+Research" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=45&lines=Shipping+production+RAG+%26+agentic+AI+systems;Customer+problem+%E2%86%92+Prototype+%E2%86%92+Deployed+in+production;LLM+guardrails+%7C+Self-RAG+%7C+Evals+%7C+Observability;Researching+prompt+injection+detection+for+LLM+security" alt="Typing SVG" /></a>
 
 <br>
 
