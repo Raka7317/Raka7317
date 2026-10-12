@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:0A66C2&height=200&section=header&text=Rakesh%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20ML%20Systems%20%7C%20GenAI&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:0A66C2&height=200&section=header&text=Rakesh%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20ML%20Systems%20%7C%20GenAI%20%7C%20GenAI&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+ML+systems+that+don't+fall+apart+in+production;Model+Dev+%E2%86%92+Deploy+%E2%86%92+Monitor+%E2%86%92+Retrain;Researching+Prompt+Injection+Detection+for+LLM+Security;M.Tech+CSE+(AI+%26+ML)+%40+VIT+Vellore" alt="Typing SVG" /></a>
 
